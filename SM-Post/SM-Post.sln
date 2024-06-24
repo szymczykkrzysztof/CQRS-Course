@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Query.Domain", "Post.Q
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Query.Infrastructure", "Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure.csproj", "{23B8964D-2C13-4E36-BC1F-FBB2D56CA36B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Common", "Post.Common\Post.Common.csproj", "{7C5D534A-16C5-48A6-89D7-4C730891B26A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{23B8964D-2C13-4E36-BC1F-FBB2D56CA36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23B8964D-2C13-4E36-BC1F-FBB2D56CA36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23B8964D-2C13-4E36-BC1F-FBB2D56CA36B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5D534A-16C5-48A6-89D7-4C730891B26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5D534A-16C5-48A6-89D7-4C730891B26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5D534A-16C5-48A6-89D7-4C730891B26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5D534A-16C5-48A6-89D7-4C730891B26A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{25DB47FA-6374-425C-841F-8D45A4FD2BCC} = {ED17D2B2-14B9-4683-970C-04B4A5AEC454}
